@@ -1,0 +1,40 @@
+{
+  "name": "mattpocock-skills",
+  "version": "1.2.0-work.1784192592",
+  "description": "Matt Pocock's promoted engineering and productivity skills, adapted for ChatGPT Work.",
+  "author": {
+    "name": "Matt Pocock",
+    "url": "https://www.aihero.dev"
+  },
+  "homepage": "https://github.com/mattpocock/skills",
+  "repository": "https://github.com/chenkailu007/mattpocock-skills-work",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "tdd",
+    "code-review",
+    "grilling",
+    "domain-modeling",
+    "productivity",
+    "chatgpt-work"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Matt Pocock Skills",
+    "shortDescription": "Engineering workflows for real projects",
+    "longDescription": "Promoted Matt Pocock engineering and productivity skills with deterministic ChatGPT Work adaptations and traceable upstream provenance.",
+    "developerName": "Matt Pocock; ChatGPT Work adapter by chenkailu007",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/mattpocock/skills",
+    "defaultPrompt": [
+      "Help me choose the right engineering workflow.",
+      "Diagnose this bug with a tight feedback loop.",
+      "Review this change against its spec and standards."
+    ]
+  }
+}

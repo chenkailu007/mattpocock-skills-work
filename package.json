@@ -1,0 +1,12 @@
+{
+  "name": "mattpocock-skills-work",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ChatGPT Work plugin adapter for mattpocock/skills",
+  "license": "MIT",
+  "scripts": {
+    "sync": "node scripts/sync-upstream.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "npm run sync && npm run validate && git diff --exit-code"
+  }
+}

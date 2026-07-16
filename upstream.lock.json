@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "upstream": {
+    "repository": "https://github.com/mattpocock/skills",
+    "ref": "main",
+    "commit": "9603c1cc8118d08bc1b3bf34cf714f62178dea3b",
+    "commitTime": "2026-07-16T09:03:12.000Z",
+    "pluginVersion": "1.2.0",
+    "selectedSkills": [
+      {
+        "bucket": "engineering",
+        "name": "ask-matt",
+        "path": "./skills/engineering/ask-matt"
+      },
+      {
+        "bucket": "engineering",
+        "name": "diagnosing-bugs",
+        "path": "./skills/engineering/diagnosing-bugs"
+      },
+      {
+        "bucket": "engineering",
+        "name": "grill-with-docs",
+        "path": "./skills/engineering/grill-with-docs"
+      },
+      {
+        "bucket": "engineering",
+        "name": "triage",
+        "path": "./skills/engineering/triage"
+      },
+      {
+        "bucket": "engineering",
+        "name": "improve-codebase-architecture",
+        "path": "./skills/engineering/improve-codebase-architecture"
+      },
+      {
+        "bucket": "engineering",
+        "name": "setup-matt-pocock-skills",
+        "path": "./skills/engineering/setup-matt-pocock-skills"
+      },
+      {
+        "bucket": "engineering",
+        "name": "tdd",
+        "path": "./skills/engineering/tdd"
+      },
+      {
+        "bucket": "engineering",
+        "name": "to-spec",
+        "path": "./skills/engineering/to-spec"
+      },
+      {
+        "bucket": "engineering",
+        "name": "to-tickets",
+        "path": "./skills/engineering/to-tickets"
+      },
+      {
+        "bucket": "engineering",
+        "name": "wayfinder",
+        "path": "./skills/engineering/wayfinder"
+      },
+      {
+        "bucket": "engineering",
+        "name": "implement",
+        "path": "./skills/engineering/implement"
+      },
+      {
+        "bucket": "engineering",
+        "name": "prototype",
+        "path": "./skills/engineering/prototype"
+      },
+      {
+        "bucket": "engineering",
+        "name": "research",
+        "path": "./skills/engineering/research"
+      },
+      {
+        "bucket": "engineering",
+        "name": "domain-modeling",
+        "path": "./skills/engineering/domain-modeling"
+      },
+      {
+        "bucket": "engineering",
+        "name": "codebase-design",
+        "path": "./skills/engineering/codebase-design"
+      },
+      {
+        "bucket": "engineering",
+        "name": "code-review",
+        "path": "./skills/engineering/code-review"
+      },
+      {
+        "bucket": "engineering",
+        "name": "resolving-merge-conflicts",
+        "path": "./skills/engineering/resolving-merge-conflicts"
+      },
+      {
+        "bucket": "productivity",
+        "name": "grill-me",
+        "path": "./skills/productivity/grill-me"
+      },
+      {
+        "bucket": "productivity",
+        "name": "grilling",
+        "path": "./skills/productivity/grilling"
+      },
+      {
+        "bucket": "productivity",
+        "name": "handoff",
+        "path": "./skills/productivity/handoff"
+      },
+      {
+        "bucket": "productivity",
+        "name": "teach",
+        "path": "./skills/productivity/teach"
+      },
+      {
+        "bucket": "productivity",
+        "name": "writing-great-skills",
+        "path": "./skills/productivity/writing-great-skills"
+      }
+    ]
+  },
+  "adapter": {
+    "repository": "https://github.com/chenkailu007/mattpocock-skills-work",
+    "version": 1,
+    "generatedPluginVersion": "1.2.0-work.1784192592"
+  }
+}
