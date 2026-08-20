@@ -3,9 +3,9 @@
   "upstream": {
     "repository": "https://github.com/mattpocock/skills",
     "ref": "main",
-    "commit": "9603c1cc8118d08bc1b3bf34cf714f62178dea3b",
-    "commitTime": "2026-07-16T09:03:12.000Z",
-    "pluginVersion": "1.2.0",
+    "commit": "885e2ca4d842d139e9aef4e48d366c63cb1b8013",
+    "commitTime": "2026-08-19T13:09:18.000Z",
+    "pluginVersion": "1.2.3",
     "selectedSkills": [
       {
         "bucket": "engineering",
@@ -93,6 +93,11 @@
         "path": "./skills/engineering/resolving-merge-conflicts"
       },
       {
+        "bucket": "engineering",
+        "name": "wizard",
+        "path": "./skills/engineering/wizard"
+      },
+      {
         "bucket": "productivity",
         "name": "grill-me",
         "path": "./skills/productivity/grill-me"
@@ -114,14 +119,24 @@
       },
       {
         "bucket": "productivity",
-        "name": "writing-great-skills",
-        "path": "./skills/productivity/writing-great-skills"
+        "name": "to-questionnaire",
+        "path": "./skills/productivity/to-questionnaire"
+      },
+      {
+        "bucket": "productivity",
+        "name": "wait-what",
+        "path": "./skills/productivity/wait-what"
+      },
+      {
+        "bucket": "productivity",
+        "name": "writing-for-agents",
+        "path": "./skills/productivity/writing-for-agents"
       }
     ]
   },
   "adapter": {
     "repository": "https://github.com/chenkailu007/mattpocock-skills-work",
     "version": 1,
-    "generatedPluginVersion": "1.2.0-work.1784192592"
+    "generatedPluginVersion": "1.2.3-work.1787144958"
   }
 }
