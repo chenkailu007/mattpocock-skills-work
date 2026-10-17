@@ -3,9 +3,9 @@
   "upstream": {
     "repository": "https://github.com/mattpocock/skills",
     "ref": "main",
-    "commit": "885e2ca4d842d139e9aef4e48d366c63cb1b8013",
-    "commitTime": "2026-08-19T13:09:18.000Z",
-    "pluginVersion": "1.2.3",
+    "commit": "49dd158d1076134a641b33efb035946536778336",
+    "commitTime": "2026-10-09T10:56:49.000Z",
+    "pluginVersion": "1.3.1",
     "selectedSkills": [
       {
         "bucket": "engineering",
@@ -64,6 +64,11 @@
       },
       {
         "bucket": "engineering",
+        "name": "implement-spec",
+        "path": "./skills/engineering/implement-spec"
+      },
+      {
+        "bucket": "engineering",
         "name": "prototype",
         "path": "./skills/engineering/prototype"
       },
@@ -89,8 +94,13 @@
       },
       {
         "bucket": "engineering",
-        "name": "resolving-merge-conflicts",
-        "path": "./skills/engineering/resolving-merge-conflicts"
+        "name": "pr",
+        "path": "./skills/engineering/pr"
+      },
+      {
+        "bucket": "engineering",
+        "name": "retro",
+        "path": "./skills/engineering/retro"
       },
       {
         "bucket": "engineering",
@@ -137,6 +147,6 @@
   "adapter": {
     "repository": "https://github.com/chenkailu007/mattpocock-skills-work",
     "version": 1,
-    "generatedPluginVersion": "1.2.3-work.1787144958"
+    "generatedPluginVersion": "1.3.1-work.1791543409"
   }
 }
