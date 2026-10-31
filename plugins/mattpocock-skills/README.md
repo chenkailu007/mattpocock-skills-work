@@ -2,8 +2,8 @@
 
 Generated for ChatGPT Work from [mattpocock/skills](https://github.com/mattpocock/skills).
 
-- Upstream commit: `885e2ca4d842d139e9aef4e48d366c63cb1b8013`
-- Upstream commit time: `2026-08-19T13:09:18.000Z`
-- Included skills: 25
+- Upstream commit: `a496f5513d4a4cf889bc48e189e579f4b0bdf6aa`
+- Upstream commit time: `2026-10-29T10:42:51.000Z`
+- Included skills: 27
 
 Do not edit this directory by hand. Run `npm run sync` from the marketplace root.
